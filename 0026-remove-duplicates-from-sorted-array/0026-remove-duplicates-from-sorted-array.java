@@ -6,10 +6,10 @@ class Solution {
             return 0;
         }
         
-        for(int i=0;i<nums.length;i++)
+        for(int i=1;i<nums.length;i++)
         {
         
-            if(nums[i]!=nums[k-1])
+            if(nums[i]!=nums[i-1])
             {
                 nums[k]=nums[i];
                 k++;
