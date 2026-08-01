@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -29,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
