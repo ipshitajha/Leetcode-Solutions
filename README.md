@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
