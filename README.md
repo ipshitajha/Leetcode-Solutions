@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
