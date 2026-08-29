@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
