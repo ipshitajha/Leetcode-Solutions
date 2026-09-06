@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
