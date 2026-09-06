@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -129,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
