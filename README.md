@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0835-image-overlap](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
