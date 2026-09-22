@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
