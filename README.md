@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0835-image-overlap](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ipshitajha/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
